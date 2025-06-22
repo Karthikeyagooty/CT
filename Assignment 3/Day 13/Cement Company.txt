@@ -1,0 +1,12 @@
+Use the same report created on Day 11
+
+1. Create measure using Calculate function and use filter function in it
+
+2. Create a calculated column using IF function showing if Target MT is greater then 5000 than "good" otherwise "Bad"
+
+3. Create a measure to show an average of Production MT using Average and AverageX functions.
+
+4. Create a measure showing the distinct count of the customers
+
+5. Mail the assignment to your mentor
+
