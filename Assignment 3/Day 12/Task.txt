@@ -1,0 +1,4 @@
+Create Custom Format
+- Change Format of Response ID by adding 0 to every response ID ( Earlier response ID is 1234, now Response ID will be 12340)
+- Change Format of Age column by converting all age into ages of two decimal places (e.g. 25.00)
+- Apply negative (-) sign in all order id by custom format
