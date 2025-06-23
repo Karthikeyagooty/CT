@@ -1,0 +1,27 @@
+1. Load the Excel File
+
+2. Check the Data Type of all Columns and correct if any changes need to be made. 
+
+3. Rename "Total Sales" column to "Total Revenue"
+
+4. Create a new column of Year from Date Column
+
+5. Create a new column of Month from Date Column
+
+6. Create a new column of Day from Date Column
+
+7. Split the Date Column by delimiter
+
+8. Create a new column of date concatinating Year and month. Name the column "Month Year"
+
+9. Create a duplicate Table named Country Sales and Group by the Country Column with respect to Total Revenue.
+
+10. Change the currency Amount to Indian Rs. for Total Revenue Column. 
+
+11. Create a new conditional column. If Country = UK, Value = 1, Country = France, Value = 2, Country = USA, Value = 3, Country = India, Value = 4 and Country = Germany, Value = 5. 
+
+12. Reverse the rows of the table using Reverse Rows function in Power Query Editor.  
+
+13. Replace UK by United Kingdom. 
+
+ 
