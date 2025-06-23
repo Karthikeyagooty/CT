@@ -1,0 +1,12 @@
+Create a new report
+
+1) Create 2 different types of hierarchies from Employees table and implement them in two different types of visuals showing billed hours on Y Axis. 
+
+2) Create a date table using calendar function and also add days and month columns. Also create columns for Year, Day no. of Month, Day Number of Year, Week Number of Year, English Day Name of Week, Month Number of Year, Calendar Quarter, Calendar Semester, Financial Year (For eg. FY18) and Financial Quarter. 
+
+3) Drill down on projects & task type based on billed hours
+
+4) Create a KPI Visual showing Approved billed hours difference between previous month and current month in percentage.
+
+5) Mail this assignment to your mentor 
+
