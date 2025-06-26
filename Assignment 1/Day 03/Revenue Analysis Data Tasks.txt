@@ -1,0 +1,14 @@
+1. Load all data in Power BI Desktop & explore the Data Profiling Options. 
+2. Remove the auto update data type & Check for headers
+3. Change data type to appropriate data type
+4. Add new column with age of cutomers
+5. Create a new column for full name of customers
+6. Create a new table as 'Total Orders' which should have all the orders from 'Order-1' & 'Order-2' tables (Append Order-1 & Order-2)
+7. Add Customers full name & Plant name in 'Total Orders' table. (Use Merge Option Total Orders & Customers based on Common key)
+8. Create separate columns for Year, month & date in orders table with all orders
+9. Create new aggregated table as 'Plant wise data' with Plant id, plant names,sum of Shipped qty & sum of Firm orders (Use Group By Option)
+10. Create new aggregated table as Customer wise data' with Customer full name,sum of Shipped qty & sum of Firm orders (Use Group By Option)
+11. Remove bottom 10 rows in Total Orders Table. 
+12. In the revenue table, Use Unpivot column option to create one single column of Year. 
+13. Create a copy of Total Orders Table and apply Statistics options
+14. Before Loading the transformed data into Power BI, disable load for the following tables: Order 1, Order 2, Revenue and copy of Total Orders table which was made in Point 13. Final tables to be loaded are: Customers, Plant and Total Orders.  
