@@ -1,0 +1,5 @@
+1. Download DAX Studio from internet and install. 
+2. Continue Day 5 tasks in the same file created on Day 4. 
+3. Change the Cross filtering directions to 1 side. 
+4. Go to External tab and click on DAX Studio. Then check for referential integrity. 
+5. Mail the assignment to your mentor. 
