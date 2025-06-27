@@ -1,0 +1,9 @@
+1.You must have completed Day 3 Assignment on Revenue Analysis Data. Continue Day 4 tasks in the same pbix file. 
+
+2.Now go to Modelling tab, click on Manage Relationships and delete all exisiting relationships. 
+
+3. After deleting the relationships, go to modelling view and create a Star Schema using the loaded tables.
+ 
+4.Make a note of which are the Dimension tables and which are the Fact tables. Also write a one line definition about Dimension and Fact tables in a word document. 
+
+5. Also make a note of type of relationships that you have made while creating a start schema, for eg. one to many, many to many, one to one. 
