@@ -1,0 +1,7 @@
+Use the employee report
+1- Use Key influencer and create a chart
+2- Create a Anomaly detection Chart 
+3- Create a best suitable Chart which shows the levels in the organization 
+4- Use Q&A and update the NLP
+5- Optimise the charts
+
