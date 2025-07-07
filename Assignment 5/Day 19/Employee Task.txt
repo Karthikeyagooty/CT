@@ -1,0 +1,5 @@
+Use the employee report
+1- Manager his/her projects according to his/her team.(Apply RLS) 
+2- Manager can able to view team wise project distribution by using RLS
+3- Create charts using maps
+
