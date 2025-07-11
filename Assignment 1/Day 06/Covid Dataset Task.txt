@@ -1,0 +1,21 @@
+1. Go through Covid Dataset and all the links and videos of Azure Maps, Heat Map Layer and Scorecard Visual before attempting the below Tasks. 
+
+2. Load the Data in a fresh pbix file. Apply the ETL process. 
+
+3. Create a report with following details: -
+
+Page 1
+
+a) Create an Azure Map Visual (Not Bing Map) using the Longitudes and Latitudes Provided in the Dataset. 
+
+b) In the Bubble Size keep " Total Confirmed" Column and rest all other details in Tooltip
+
+c) Test the Heat Map layer on this visual and also explore other options. 
+
+Page 2
+
+a) Create a Scorecard Visual and create a new Goal. Name the Goal COVID Testing Efficiency. 
+
+b) Create a Rule where if Total Tested is greater than equal to 85% of Population (Target), "On Track" should be displayed otherwise "Behind" should be displayed. 
+
+4. Mail the assignment to your mentor.  
