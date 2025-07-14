@@ -1,0 +1,13 @@
+1. Go through the PPT and Word file on Visualisation Guides before continiuing with Day 6 Tasks
+
+2. Load the Data in a fresh pbix file. Apply the ETL process and create relationships between the tables.  
+
+3. Create a report with following details: -
+
+a. Use all the in-built Power BI visuals and create tiles (charts) properly.
+
+b. Use a proper colour theme for your report. Make sure that the UI is clean and presentable. 
+
+c. Use Q&A visual, apply NLP and learn how to configure Q&A visual: Teach Q&A, Synonyms, Suggest Questions etc. 
+
+4. Mail the assignment to your mentor.  
