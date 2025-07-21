@@ -1,3 +1,0 @@
-Use the previous report
-
-2- Implement 7 functions like ALL, VALUES, ALLSELECTED uing CALCULATE function
