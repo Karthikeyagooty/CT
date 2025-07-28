@@ -1,0 +1,9 @@
+Upload this data in Power BI Desktop and then fetch this data in paginated report by using Power BI Dataset as Data Source
+
+- Show User ID of the login Person
+- Create Table or Matrix visual that shows Brand Names, Count of customers, Average Age of Customers, Average Product Price Amount. Also Apply Grouping
+on Brand Names so that if user will expand any prand name then all the data will be splitted into Males and Females. That means for every brand, two rows
+should be visible , one for male and second for female.
+- Create Non Cascading Parameters for Year and Month
+
+
