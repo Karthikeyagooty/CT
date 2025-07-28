@@ -1,0 +1,6 @@
+Create a new report and connect the report from the sql data and use direct query when necessary
+
+1- Create an aggregation table for sum and average and connect it with the fact table
+2- Create a query parameter on the report
+3- Apply incremental refresh on the report
+4- Work with the dual storage mode in the report
