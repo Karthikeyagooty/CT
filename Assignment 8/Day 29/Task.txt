@@ -1,0 +1,7 @@
+Create a report
+1- Use all the logics learnt in the above days
+2- Create comparisons on the charts
+3- Create bookmarks for page navigation
+4- Create DAX measures to calculate YTD, YTD, QTD, Previous Year, Previous month 
+5- Build a star schema
+6- Implement whatif parameter of the previous day sales
