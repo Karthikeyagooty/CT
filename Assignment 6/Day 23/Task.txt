@@ -1,0 +1,5 @@
+Create a report/import from the power bi dataset
+
+1- Use the what if parameter in the report
+2- Refresh the data form the service
+ 
