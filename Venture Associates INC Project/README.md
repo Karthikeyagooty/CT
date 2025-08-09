@@ -29,15 +29,13 @@ Transforms manual KPI tracking into an **interactive, automated business intelli
 ---
 
 ## 📂 Structure
+
 Venture-KPI-PowerBI/
 │
-├── 📊 Venture Associates Dashboard.pbix
-├── 📈 Screenshots/
-├── 📑 README.md
-└── 📂 Data/
-└── Venture Associates Data.xlsx
-
-
+├── 📊 Venture Associates Data.xlsx
+├── 📄 Venture Associates Case Study.pdf
+├── 📈 Venture Associates Dashboard.pbix
+└── 📜 README.md
 
 
 ---
@@ -70,6 +68,6 @@ Developed to modernize KPI tracking and performance monitoring for **Venture Ass
 ---
 
 ## 📬 Contact
-**Developer:**  
-**Email:**  
-**LinkedIn:**
+**Developer:**  Karthikeya gooty 
+**Email:**  [gootyvenkatakarthikeya22@gmail.com]
+**LinkedIn:** [www.linkedin.com/in/karthikeyagooty]
