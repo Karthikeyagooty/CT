@@ -29,3 +29,47 @@ Transforms manual KPI tracking into an **interactive, automated business intelli
 ---
 
 ## 📂 Structure
+Venture-KPI-PowerBI/
+│
+├── 📊 Venture Associates Dashboard.pbix
+├── 📈 Screenshots/
+├── 📑 README.md
+└── 📂 Data/
+└── Venture Associates Data.xlsx
+
+
+
+
+---
+
+## 🧠 KPI Status Classification
+| Status  | Condition               | Color  |
+|---------|------------------------|--------|
+| Poor    | Actual ≤ LT            | 🔴 Red |
+| Average | LT < Actual < HT       | 🟡 Amber |
+| Good    | Actual ≥ HT            | 🟢 Green |
+
+---
+
+## 📌 How to Use
+1. Open **`Venture Associates Dashboard.pbix`** in Power BI Desktop.
+2. Explore the following pages:
+   - Overview
+   - KPI Matrix
+   - Trend Analysis
+   - Scatter Comparison
+   - Detailed Table
+3. Apply slicers to filter by Product, Product Head, or KPI.
+4. Hover over visuals and use animations for interactive insights.
+
+---
+
+## 🤝 Acknowledgment
+Developed to modernize KPI tracking and performance monitoring for **Venture Associates INC**.
+
+---
+
+## 📬 Contact
+**Developer:**  
+**Email:**  
+**LinkedIn:**
