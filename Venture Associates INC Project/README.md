@@ -30,9 +30,9 @@ Transforms manual KPI tracking into an **interactive, automated business intelli
 
 ## 📂 Structure
 
-Venture-KPI-PowerBI.
+Venture-KPI-PowerBI
 
-- 📊 Venture Associates Data.xlsx.
+- 📊 Venture Associates Data.xlsx
 - 📄 Venture Associates Case Study.pdf
 - 📈 Venture Associates Dashboard.pbix
 - 📜 README.md
